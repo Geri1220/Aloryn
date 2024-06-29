@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "d71d9db54e6d69d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "217a53e71c0144ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9eaccdddd9c809f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session notes/ARC 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55abc4335a35f171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Blade Antara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea7aa28d0b74c7c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Istenek/Vorteon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cf23a6863d75416",
+    "type": "split",
+    "children": [
+      {
+        "id": "b675a2f378915135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da27ac9bc2b8cfc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80744d8634eccf2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89f5b8165da4a68f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2387b9fc935e90d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7436bc6eff6d66ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bb1fe8cbbb0f062",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Players/Blade Antara.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "280bc218758b0bed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Players/Blade Antara.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8029ae4eebb1ab5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67d638ccc25520ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Players/Blade Antara.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "55abc4335a35f171",
+  "lastOpenFiles": [
+    "Aloryn 2/Profiles/Raya/A kalózkirály.md",
+    "Aloryn 2/Profiles/Raya/Érme Céh.md",
+    "Aloryn 2/Profiles/Raya/Gharro.md",
+    "Aloryn 2/Profiles/Raya/Ralrus.md",
+    "Aloryn 2/Profiles/Raya/Patkány Céh.md",
+    "Aloryn 2/Profiles/Raya/Voka.md",
+    "Aloryn 2/Profiles/Raya/Héra Feorsh.md",
+    "Pasted image 20240629221534.png",
+    "Pasted image 20240629221444.png",
+    "Istenek/Lasharia.md",
+    "Players/Zadan Schmidt.md",
+    "Aloryn 2/Profiles/Raya/Hegy Céh.md",
+    "Pasted image 20240629215952.png",
+    "Istenek/Aloryon.md",
+    "Istenek/Vorteon.md",
+    "Aloryn 2/Places/Szigetek/Ashlands.md",
+    "Session notes/ARC 2.md",
+    "Istenek/Oarwion.md",
+    "Istenek/Nocron.md",
+    "Istenek/Hyryon.md",
+    "Aloryn 2/Profiles/Velkion/Korin Jadorak.md",
+    "Aloryn 2/Profiles/Krox/Broll.md",
+    "Aloryn 2/Profiles/Krox/Lorell Vinko.md",
+    "zImages/Pasted image 20240629215154.png",
+    "zImages/Pasted image 20240629215150.png",
+    "zImages/Pasted image 20240629215139.png",
+    "zImages/Pasted image 20240629215132.png",
+    "zImages/Pasted image 20240629215042.png",
+    "zImages/Pasted image 20240629215032.png",
+    "zImages/Pasted image 20240629215010.png",
+    "Session notes/Events.md",
+    "Session notes/ARC 1/Session 6.md",
+    "Untitled.canvas",
+    "Session notes/ARC 1",
+    "zImages",
+    "Aloryn 2/Profiles/Velkion/Alkony köre.md",
+    "Aloryn 2/Profiles/Velkion/Baron Kork.md",
+    "Aloryn 2/Profiles/Velkion/Grimoire Welnor.md",
+    "Aloryn 2/Profiles/Velkion/Velion Eworyn.md",
+    "Aloryn 2/Profiles/Szigetek",
+    "_TODO",
+    "Aloryn 2/Profiles/_Misc",
+    "Aloryn 2/Profiles/Mion",
+    "Aloryn 2/Places/Szigetek/Untitled",
+    "Aloryn 2/Places/Szigetek",
+    "Istenek",
+    "Aloryn 2/Profiles/Raya"
+  ]
+}

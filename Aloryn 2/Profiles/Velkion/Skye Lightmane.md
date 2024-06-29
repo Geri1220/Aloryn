@@ -1,0 +1,2 @@
+#people
+A Lightmane család a kezdetek óta egy vallásos, elszentelt család akik a Velkioni Királyi családot segítették mindig is. Ezt észben tartva azonban nem él más Skye-on kívül a családból és nem is tudni hogy mi lett velük és mi volt a nevük a tagoknak. Skye már régóta Eysso Oath szárnyai alatt van, befogadta magához így Skye a Velkioni Könyvtár egy alkalmazottja és besegítöje.

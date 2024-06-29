@@ -1,0 +1,4 @@
+#places 
+Mion
+
+- Vonat állomás amin vannak irodák ---> Vonat iroda, Hajó kölcsönzö és vevö iroda amely a legnagyobb iroda Mionban, rendörség és a Termöföldek irodái. Mionnak nincsen uralkodója de mégis van rendörség. Mion névjegye egy nöi név Veosha Horn, aki még nagyon régen élt de eltünt és azóta is az árnyak közül ( senki nem látta azóta ) vezeti az irodáját amely a hajó kölcsönzö és vevö iroda ( hatalmas business, minden hajó amely létezik, tölük jött ). Mionban semmi nem megengedett, ha bármi eröszak történik akkor egyböl repülsz a börtönbe. Mion a legbiztonságosabb "hely", a vonatrendszereit kalózok sem merik megrongálni. Veosha az irodáján kívül még a kreálmányairól híres. Idök legjobb inventora, olyan kütyüket ad ki a világba amik lemásolhatatlanok és ö az egyetlen aki képes "robotokat" kreálni, méghozzá olyanokat is akiknek van lelkük.
